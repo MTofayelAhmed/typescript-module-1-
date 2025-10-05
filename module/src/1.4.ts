@@ -17,3 +17,9 @@ age = 24
 const numberArray : number[]=[1, 2, 3]
 
 const stringArray : string[]= ["65", "Pet", "Cat"]
+
+
+// Tuple discussion : it is a special type of array where every position of data is defined 
+
+const ageName: [number, string] = [24, "Ahmed"]
+ageName[0]= 
