@@ -26,7 +26,7 @@ const poorUser = {
 }
 
 
-// map declaration 
+// map declaration
 
 const arr: number[]= [1,4,9]
 
